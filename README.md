@@ -10,8 +10,11 @@ I thought it would be nice to see the original image, and moreover, to download 
 With the instagram image url, InstaSave helps you to download the original image or video into PC.
 As a matter of privacy, this program does not allow any image or video download for 'private account'.
 
+<pre>
+<b>
 InstaSave is an MacOS application, required minimum version of java 1.0.
-Java based program, builded jar file first, then converted into application file.
+Java based program, builded jar file first, then converted into application file.</b>
+</pre>
 
 User can choose either to download an image or a video.
 
