@@ -1,7 +1,8 @@
 # InstaSave
 
-<img src="https://github.com/makeyeezy/Instagram-Downloader/blob/master/src/insta1.png" width="200" height="200">
+<img src="https://github.com/makeyeezy/InstaSave/src/insta1.png" width="200" height="200">
 
+    
 As an instagram user, I can find many images, videos, and even musics either from my followers or from strangers.
 But instagram does not show the original resolution of the image or video especially with the instagram web app.
 I thought it would be nice to see the original image, and moreover, to download the image and video.
