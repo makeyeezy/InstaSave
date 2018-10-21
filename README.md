@@ -4,6 +4,7 @@
 
 As an instagram user, I can find many images, videos, and even musics either from my followers or from strangers.
 But instagram does not show the original resolution of the image or video especially with the instagram web app.
+
 I thought it would be nice to see the original image, and moreover, to download the image and video.
 
 With the instagram image url, InstaSave helps you to download the original image or video into PC.
